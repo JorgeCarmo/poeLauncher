@@ -1,3 +1,4 @@
+
 # Path of Exile Launcher
 
 ## Introduction
@@ -8,20 +9,28 @@
 
 > Example of adding a github tool:
 
-> [PoeTradeMacro]
-active = false  <------------ start the tool/not
-version = "v2.8.0" <------------ latest github version (only used if selfupdates is set to false)
-type = github <-------------- download location (currently only github implemented)
-link = PoE-TradeMacro/POE-TradeMacro/releases/latest <-------------- link to download
-runfilename = Run_TradeMacro.ahk <--------------- executable file
-selfupdates = true <---------------- if set to true the launcher does not update this tool
-toolDescription = Trade Macro <---------------- small description of the tool
+	    [PoeTradeMacro]
+        active = false  <------------ start the tool/not
+        version = "v2.8.0" <------------ latest github version (only used if selfupdates is set to false)
+        type = github <-------------- download location (currently only github implemented)
+        link = PoE-TradeMacro/POE-TradeMacro/releases/latest <-------------- link to download
+        runfilename = Run_TradeMacro.ahk <--------------- executable file
+        selfupdates = true <---------------- if set to true the launcher does not update this tool
+        toolDescription = Trade Macro <---------------- small description of the tool
 
-
+ - active - indicates if the tool should be started
+ - version - latest github version (only used if selfupdates is set to false)
+ - type - tool location/type (currently only github implemented)
+ - link - link to download
+ - runfilename - executable file to be run
+ - selfupdates - if set to true the launcher does not update this tool
+ - toolDescription - small description of the tool
 
 ## Installation
 
-> 1. Got to the releases page and download the latest release
-> 
-> 2. Copy/create .ini file of the tools to the ini folder
-> 3. Execute 
+ 1. Got to the releases page and download the latest release
+
+ 2. Copy/create .ini file of the tools to the ini folder
+
+ 4. Execute poeLauncher.exe
+ 
