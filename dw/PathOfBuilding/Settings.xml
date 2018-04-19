@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Mode mode="BUILD">
+		<Arg boolean="false"/>
+		<Arg string="Unnamed build"/>
+	</Mode>
+	<Accounts/>
+	<SharedItems/>
+	<Misc showThousandsCalcs="nil" showThousandsSidebar="nil" nodePowerTheme="RED/BLUE" buildSortMode="NAME"/>
+</PathOfBuilding>

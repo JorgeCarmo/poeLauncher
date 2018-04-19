@@ -45,23 +45,6 @@ public class Controller{
         int progress = 0;
 
         progress_bar.setProgress(progress);
-        //Open tools
-        ini = new Wini(new File(System.getProperty("user.dir") +"\\ini\\tools.ini"));
-        for (String toolName: ini.keySet()) {
-            progress += 1/size;
-            if(ini.get(toolName, "active", boolean.class)){
-                String type = ini.get(toolName, "type", String.class);
-                String link = ini.get(toolName, "link", String.class);
-                String runFileName = ini.get(toolName, "runfilename", String.class);
-                boolean selfUpdates = ini.get(toolName, "selfupdates", boolean.class);
-
-                System.out.println(toolName + " " + runFileName);
-
-                runTool(toolName, type, link, runFileName.replace("%20", " "), selfUpdates);
-
-            }
-            progress_bar.setProgress(progress);
-        }
         //Open websites
         ini = new Wini(new File(System.getProperty("user.dir") +"\\ini\\websites.ini"));
         for (String website: ini.keySet()) {
@@ -89,6 +72,24 @@ public class Controller{
             Runtime.getRuntime().exec("\"" + "C:\\Program Files (x86)\\Grinding Gear Games\\Path of Exile\\PathOfExile_x64Steam.exe" + "\"");
         }
         progress_bar.setProgress(progress);
+
+        //Open tools
+        ini = new Wini(new File(System.getProperty("user.dir") +"\\ini\\tools.ini"));
+        for (String toolName: ini.keySet()) {
+            progress += 1/size;
+            if(ini.get(toolName, "active", boolean.class)){
+                String type = ini.get(toolName, "type", String.class);
+                String link = ini.get(toolName, "link", String.class);
+                String runFileName = ini.get(toolName, "runfilename", String.class);
+                boolean selfUpdates = ini.get(toolName, "selfupdates", boolean.class);
+
+                System.out.println(toolName + " " + runFileName);
+
+                runTool(toolName, type, link, runFileName.replace("%20", " "), selfUpdates);
+
+            }
+            progress_bar.setProgress(progress);
+        }
         System.exit(0);
 
     }

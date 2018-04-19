@@ -9,11 +9,11 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #6D9DC5;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
    <children>
+      <ProgressBar fx:id="progress_bar" layoutX="14.0" layoutY="363.0" prefWidth="200.0" progress="0.0" visible="false" AnchorPane.bottomAnchor="18.0" AnchorPane.leftAnchor="16.0" AnchorPane.rightAnchor="94.0" />
       <Button id="start_bt" layoutX="516.0" layoutY="346.0" maxWidth="70.0" mnemonicParsing="false" onAction="#startButton" prefHeight="40.0" prefWidth="70.0" text="Start" AnchorPane.bottomAnchor="8.0" AnchorPane.rightAnchor="8.0" />
-      <ProgressBar fx:id="progress_bar" layoutX="14.0" layoutY="363.0" prefWidth="200.0" progress="0.0" AnchorPane.bottomAnchor="18.0" AnchorPane.leftAnchor="16.0" AnchorPane.rightAnchor="94.0" />
       <Accordion fx:id="accord" layoutX="6.0" layoutY="8.0" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #53599A;" AnchorPane.bottomAnchor="56.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
         <panes>
-          <TitledPane fx:id="web_pane" style="-fx-background-color: #53599A;" text="Websites" textFill="#39a0ed">
+          <TitledPane fx:id="web_pane" animated="false" style="-fx-background-color: #53599A;" text="Websites">
             <content>
               <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: #53599A;">
                      <children>
@@ -22,7 +22,7 @@
                   </AnchorPane>
             </content>
           </TitledPane>
-          <TitledPane fx:id="tool_pane" text="Tools">
+          <TitledPane fx:id="tool_pane" animated="false" text="Tools">
             <content>
               <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: #53599A;">
                      <children>
@@ -31,7 +31,7 @@
                   </AnchorPane>
             </content>
           </TitledPane>
-          <TitledPane fx:id="launcher_pane" style="-fx-background-color: #3A0842;" text="Launcher Settings">
+          <TitledPane fx:id="launcher_pane" animated="false" style="-fx-background-color: #3A0842;" text="Launcher Settings">
             <content>
               <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: #53599A;">
                      <children>

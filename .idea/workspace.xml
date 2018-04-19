@@ -1,7 +1,365 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PoELauncher" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/PoELauncher.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Assets/game_ui_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Assets/patreon_logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Assets/range_guide.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Assets/ring.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Assets/small_ring.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/BuildListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ButtonControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/CalcBreakdownControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/CalcSectionControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/CalcsTab.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/CheckBoxControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ConfigTab.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/Control.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ControlHost.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/DropDownControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/EditControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/FolderListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/GemSelectControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ImportTab.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/Item.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ItemDBControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ItemListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ItemSetListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ItemSlotControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ItemsTab.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/LabelControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/MinionListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ModDB.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ModList.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ModStore.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/NotesTab.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/PassiveSpec.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/PassiveSpecListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/PassiveTree.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/PassiveTreeView.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/PathControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/PopupDialog.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/ScrollBarControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/SectionControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/SharedItemListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/SharedItemSetListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/SkillListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/SkillsTab.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/SliderControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/TextListControl.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/Tooltip.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/TooltipHost.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/TreeTab.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Classes/UndoHandler.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/amulet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/axe.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/belt.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/body.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/boots.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/bow.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/claw.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/dagger.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/flask.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/gloves.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/helmet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/jewel.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/mace.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/quiver.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/ring.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/shield.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/staff.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/sword.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Bases/wand.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/EnchantmentBoots.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/EnchantmentGloves.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/EnchantmentHelmet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Essence.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Minions.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Misc.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/ModCache.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/ModCorrupted.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/ModFlask.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/ModItem.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/ModJewel.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/ModMaster.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Rares.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/act_dex.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/act_int.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/act_str.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/glove.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/minion.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/other.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/spectre.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/sup_dex.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/sup_int.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Skills/sup_str.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/2_6/Spectres.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/amulet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/axe.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/belt.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/body.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/boots.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/bow.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/claw.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/dagger.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/flask.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/gloves.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/helmet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/jewel.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/mace.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/quiver.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/ring.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/shield.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/staff.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/sword.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Bases/wand.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/EnchantmentBoots.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/EnchantmentGloves.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/EnchantmentHelmet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Essence.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Minions.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Misc.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/ModCache.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/ModCorrupted.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/ModFlask.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/ModItem.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/ModJewel.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/ModJewelAbyss.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/ModMaster.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Rares.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/act_dex.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/act_int.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/act_str.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/glove.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/minion.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/other.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/spectre.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/sup_dex.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/sup_int.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Skills/sup_str.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/3_0/Spectres.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Global.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/New.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/amulet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/axe.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/belt.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/body.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/boots.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/bow.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/claw.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/dagger.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/flask.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/gloves.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/helmet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/jewel.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/mace.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/quiver.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/ring.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/shield.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/staff.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/sword.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Data/Uniques/wand.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Launch.cfg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Launch.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/Build.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/BuildList.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcActiveSkill.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcBreakdown.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcDefence-2_6.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcDefence-3_0.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcOffence-2_6.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcOffence-3_0.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcPerform.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcSections-2_6.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcSections-3_0.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcSetup.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/CalcTools.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/Calcs.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/Common.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/ConfigOptions.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/Data.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/ItemTools.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/Main.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/ModParser-2_6.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/ModParser-3_0.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Modules/ModTools.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Path of Building.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.10.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.12.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.14.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.16.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.18.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.20.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.24.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.28.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.32.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Bitstream Vera Sans Mono.tgf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.10.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.12.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.14.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.16.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.18.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.20.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.24.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.28.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.32.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans Bold.tgf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.10.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.12.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.14.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.16.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.18.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.20.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.24.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.28.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.32.tga" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/SimpleGraphic/Fonts/Liberation Sans.tgf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/2_6/skill_sprite-3-32f639bbfc42783ca7ec218a787dd918.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/2_6/skill_sprite-active-3-3e73c4c4534433ecfc340c7287093bd5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/2_6/skill_sprite-active-3-7798fabab8a21829831293c20ac9c414.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/2_6/tree.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/3_0/groups-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/3_0/skills-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/3_0/skills-disabled-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/3_0/tree.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/3_0/tree.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Background1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/BackgroundDex.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/BackgroundDexInt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/BackgroundInt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/BackgroundStr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/BackgroundStrDex.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/BackgroundStrInt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesAscendant.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesAssassin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesBerserker.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesChampion.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesChieftain.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesDeadeye.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesElementalist.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesGladiator.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesGuardian.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesHierophant.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesInquisitor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesJuggernaut.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesNecromancer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesOccultist.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesPathfinder.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesRaider.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesSaboteur.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesSlayer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/ClassesTrickster.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/JewelFrameAllocated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/JewelFrameCanAllocate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/JewelFrameUnallocated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/JewelSocketActiveAbyss.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/JewelSocketActiveBlue.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/JewelSocketActiveGreen.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/JewelSocketActivePrismatic.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/JewelSocketActiveRed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/KeystoneFrameAllocated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/KeystoneFrameCanAllocate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/KeystoneFrameUnallocated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/LineConnectorActive.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/LineConnectorIntermediate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/LineConnectorNormal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/NotableFrameAllocated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/NotableFrameCanAllocate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/NotableFrameUnallocated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit1Active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit1Intermediate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit1Normal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit2Active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit2Intermediate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit2Normal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit3Active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit3Intermediate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit3Normal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit4Active.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit4Intermediate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/Orbit4Normal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSGroupBackground1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSGroupBackground2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSGroupBackground3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSLineDeco.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSLineDecoHighlighted.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSPointsFrame.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSSkillFrame.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSSkillFrameActive.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSSkillFrameHighlighted.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PSStartNodeBackgroundInactive.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyButton.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyButtonHighlight.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyButtonPressed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyFrameLargeAllocated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyFrameLargeCanAllocate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyFrameLargeNormal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyFrameSmallAllocated.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyFrameSmallCanAllocate.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyFrameSmallNormal.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/PassiveSkillScreenAscendancyMiddle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/centerduelist.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/centermarauder.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/centerranger.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/centerscion.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/centershadow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/centertemplar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/centerwitch.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/imgPSFadeCorner.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/TreeData/imgPSFadeSide.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Classes{slash}ConfigTab.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Classes{slash}Item.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Classes{slash}ModList.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}2_6{slash}Bases{slash}staff.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}2_6{slash}ModCache.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}3_0{slash}Bases{slash}amulet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}3_0{slash}Bases{slash}belt.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}Global.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}New.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}Uniques{slash}axe.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}Uniques{slash}belt.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}Uniques{slash}bow.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}Uniques{slash}claw.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Data{slash}Uniques{slash}helmet.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Modules{slash}CalcDefence-3_0.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Modules{slash}CalcSections-3_0.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Modules{slash}Calcs.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/Update/Modules{slash}ConfigOptions.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/UpdateApply.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/UpdateCheck.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/changelog.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/lcurl.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/libcurl.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/lua/base64.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/lua/dkjson.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/lua/sha1.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/lua/xml.lua" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/lua51.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/lzip.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/manifest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dw/PathOfBuilding/msvcr100.dll" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/icon.png" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ini/settings.ini" afterPath="$PROJECT_DIR$/ini/settings.ini" />
+      <change beforePath="$PROJECT_DIR$/ini/tools.ini" afterPath="$PROJECT_DIR$/ini/tools.ini" />
+      <change beforePath="$PROJECT_DIR$/out/production/PoELauncher/sample/Controller.class" afterPath="$PROJECT_DIR$/out/production/PoELauncher/sample/Controller.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/PoELauncher/sample/Main.class" afterPath="$PROJECT_DIR$/out/production/PoELauncher/sample/Main.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/PoELauncher/sample/sample.fxml" afterPath="$PROJECT_DIR$/out/production/PoELauncher/sample/sample.fxml" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" afterPath="$PROJECT_DIR$/src/sample/Controller.java" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" afterPath="$PROJECT_DIR$/src/sample/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" afterPath="$PROJECT_DIR$/src/sample/sample.fxml" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -58,25 +416,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="18" column="114" lean-forward="false" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
+            <state relative-caret-position="323">
+              <caret line="20" column="52" lean-forward="false" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#770#771#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="51">
+              <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -88,8 +446,8 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="36" />
+            <state relative-caret-position="993">
+              <caret line="89" column="13" lean-forward="false" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,6 +504,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -157,10 +518,10 @@
         <option value="$PROJECT_DIR$/out/production/PoELauncher/sample/sample.fxml" />
         <option value="$PROJECT_DIR$/src/sample/GithubAPI.java" />
         <option value="$PROJECT_DIR$/src/sample/ListController.java" />
-        <option value="$PROJECT_DIR$/src/sample/Main.java" />
         <option value="$PROJECT_DIR$/src/sample/Tool.java" />
-        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
         <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
       </list>
     </option>
   </component>
@@ -171,6 +532,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -201,40 +563,6 @@
               <item name="PoELauncher" type="b2602c69:ProjectViewProjectNode" />
               <item name="PoELauncher" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoELauncher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoELauncher" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoELauncher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoELauncher" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaFXApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoELauncher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoELauncher" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoELauncher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoELauncher" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="PoELauncher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoELauncher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoELauncher" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="PoELauncher" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PoELauncher" type="b2602c69:ProjectViewProjectNode" />
@@ -273,7 +601,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AndroidStudioProjects/Stash" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -439,10 +767,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32873806" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -489,8 +817,8 @@
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -538,8 +866,8 @@
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -629,18 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="18" column="114" lean-forward="false" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Tool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -665,24 +981,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="36" />
+        <state relative-caret-position="993">
+          <caret line="89" column="13" lean-forward="false" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="20" column="52" lean-forward="false" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -692,11 +1020,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>JavaFXApp</last-edited>
+          <last-edited>PoELauncher</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
