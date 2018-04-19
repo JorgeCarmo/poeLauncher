@@ -3,11 +3,11 @@
 
 ## Introduction
 
-> Path of Exile is a great game that is often complemented by 3rd party tools to aid the player during their journey. Having played the game for several years and having run those tools thousands of times I set to create a tool to aggregate everything and launch them with ease. This created poeLauncher. My aim is to provide a simple but powerful tool that let's the player add their own tools to it while being able to share their configs with everyone else.
+Path of Exile is a great game that is often complemented by 3rd party tools to aid the player during their journey. Having played the game for several years and having run those tools thousands of times I set to create a tool to aggregate everything and launch them with ease. This created poeLauncher. My aim is to provide a simple but powerful tool that let's the player add their own tools to it while being able to share their configs with everyone else.
 
 ## Code Samples
 
-> Example of adding a github tool:
+Example of adding a github tool:
 
 	    [PoeTradeMacro]
         active = false
